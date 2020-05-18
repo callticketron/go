@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	a := requesties.Get("http://www.google.com")
+	a := requesties.Get("http://www.reddit.com")
 	fmt.Println(a)
 }
